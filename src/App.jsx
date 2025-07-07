@@ -1,4 +1,5 @@
 import './App.css'
+import AboutSection from './components/AboutSection'
 import CompanyLogo from './components/CompanyLogo'
 import CustomerSection from './components/CustomerSection'
 import DesignSection from './components/DesignSection'
@@ -16,6 +17,7 @@ function App() {
     <FeaturesSection/>
     <DesignSection/>
     <CustomerSection/>
+    <AboutSection/>
     </>
   )
 }
